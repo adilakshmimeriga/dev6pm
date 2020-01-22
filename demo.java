@@ -8,6 +8,10 @@ class demo
   {
      ......
   }
+  void ADD()
+  {
+    a+b
+  }
     p s void main()
         {
 	 ......
