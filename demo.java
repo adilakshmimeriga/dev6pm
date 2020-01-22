@@ -1,5 +1,13 @@
 class demo
 {
+  void DEPOSIT()
+  {
+     .......
+  }
+  void WITHDRAW()
+  {
+     ......
+  }
     p s void main()
         {
 	 ......
