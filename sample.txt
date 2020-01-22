@@ -1,4 +1,7 @@
 good morning
 good night
 good evening
+good afternoon
+good day
+goo bye
 
